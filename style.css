@@ -1,8 +1,13 @@
+h1 {
+	text-align: center
+}
+
+
 body { 
-	background-color: lightblue;
+	background-color: blue;
 }
 
 p {
 	text-indent: 50px;
-}
+}i
 
